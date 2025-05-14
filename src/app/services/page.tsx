@@ -70,6 +70,7 @@ export default function SpecialtiesPage() {
           </div>
         </div>
       </div>
+      
     </>
   )
 }
